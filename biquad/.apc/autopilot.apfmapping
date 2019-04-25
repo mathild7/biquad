@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="biquad.cpp" path="/home/hildeb47/proj/ECE1373_GhostSynth/mods/biquad/biquad.cpp"/>
+    <originFiles name="biquad.h" path="/home/hildeb47/proj/ECE1373_GhostSynth/mods/biquad/biquad.h"/>
+  </source>
+  <testbench>
+    <originFiles name="biquad_test.cpp" path="/home/hildeb47/proj/ECE1373_GhostSynth/mods/biquad/biquad_test.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

@@ -1,0 +1,68 @@
+<AutoPilot:ProjectResources xmlns:AutoPilot="com.autoesl.autopilot.ui.directiveView">
+<sourceFile name="">
+<directive functionLabel="" functionName="biquad" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="user_writing"/>
+<option name="bundle" value="CTRL_BUS"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="biquad" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="b2"/>
+<option name="bundle" value="CTRL_BUS"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="biquad" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="b1"/>
+<option name="bundle" value="CTRL_BUS"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="biquad" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="b0"/>
+<option name="bundle" value="CTRL_BUS"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="biquad" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="a2"/>
+<option name="bundle" value="CTRL_BUS"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="biquad" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="a1"/>
+<option name="bundle" value="CTRL_BUS"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="biquad" label="">
+<pragma name="INTERFACE">
+<option name="axis" positionalBoolean="mode" value=""/>
+<option name="register" positionalBoolean="register" value=""/>
+<option name="both" positionalBoolean="register_mode" value=""/>
+<option name="port" positionalBoolean="4" value="out"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="biquad" label="">
+<pragma name="INTERFACE">
+<option name="axis" positionalBoolean="mode" value=""/>
+<option name="register" positionalBoolean="register" value=""/>
+<option name="both" positionalBoolean="register_mode" value=""/>
+<option name="port" positionalBoolean="4" value="in"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="biquad" label="">
+<pragma name="INTERFACE">
+<option name="ap_ctrl_none" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="return"/>
+</pragma>
+</directive>
+</sourceFile>
+</AutoPilot:ProjectResources>
